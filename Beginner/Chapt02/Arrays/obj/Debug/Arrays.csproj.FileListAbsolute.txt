@@ -1,0 +1,7 @@
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\bin\Debug\Arrays.exe.config
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\bin\Debug\Arrays.exe
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\bin\Debug\Arrays.pdb
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\obj\Debug\Arrays.exe
+D:\DESARROLLOAPP2020\CSHARP\PathDeveloper.NET\Beginner\Chapt02\Arrays\obj\Debug\Arrays.pdb
